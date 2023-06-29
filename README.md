@@ -1,5 +1,4 @@
-<h1 align="center">
-  Supply-Chain-Dapp
+<h1 align="center">  Supply-Chain-Dapp
 </h1>
 
 ## Description
