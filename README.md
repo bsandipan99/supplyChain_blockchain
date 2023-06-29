@@ -11,11 +11,11 @@ The smart contract is being written with Solidity which is then compiled, migrat
 
 ## Flow
 <p align="centre">  
-    <img src="https://github.com/bsandipan99/supplyChain_blockchain/tree/main/images/flow.png" width="300">  
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/flow.png" width="300">  
 </p>
 
 ## Working
-<img src="https://github.com/bsandipan99/supplyChain_blockchain/tree/main/images/Working.png" />
+<img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/Working.png" />
 
 <p>
   The lifecycle of a product starts after it is manufactured and the product and manufacturer details are entered in the blockchain. The current product data is stored as product history with the current owner being the manufacturer.
