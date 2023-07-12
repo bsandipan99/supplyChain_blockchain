@@ -13,6 +13,84 @@ The smart contract is being written with Solidity which is then compiled, migrat
     <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/flow.png" width="300">  
 </p>
 
+## Screenshots
+<p align="centre">
+	Home Page  
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/Homepage.png">  
+</p>
+
+
+<p align="centre">
+	The admin adds accounts to their respective roles  
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/AddingRoles.png">  
+</p>
+
+
+<p align="centre">  
+	Manufacturer adds different manufactured products' data in the blockchain
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/AddingProduct.png">  
+</p>
+
+
+<p align="centre">  
+	List of all the manufactured products
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/ManufacturedProducts.png">  
+</p>
+
+
+<p align="centre">  
+    Third party(e.g. E-commerce websites) can view and buy the products from different manufacturers
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/ThirdPartyViewProducts.png">  
+</p>
+
+<p align="centre">
+	After a third party buys a product, manufacturer ships the product to third party  
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/Manufacturer_ShipProducts.png">  
+</p>
+
+<p align="centre">  
+	Third party recieves the shipped product
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/ThirdParty_receive.png">  
+</p>
+
+
+<p align="centre">  
+    Customers can view and buy products from different third parties  
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/Customer_Purchase.png">
+</p>
+
+
+<p align="centre">  
+	After a customer buys a product, third party ships the product to local delivery hub
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/ThirdParty_Ship.png">  
+</p>
+
+
+<p align="centre">  
+	Delivery hub receives the product from third party
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/delivery_receive.png">  
+</p>
+
+
+<p align="centre">
+	Delivery hub ships the product to the customer who purchased it  
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/delivery_ship.png">  
+</p>
+
+
+<p align="centre">
+	Customer receives the product from delivery hub  
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/customer_receive.png">  
+</p>
+
+
+<p align="centre"> 
+	Customer views all the purchased products till date 
+    <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/customer_Allproducts.png">  
+</p>
+
+
+
 ## Working
 <img src="https://github.com/bsandipan99/supplyChain_blockchain/blob/main/images/Working.png" />
 
